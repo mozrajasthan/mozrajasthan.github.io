@@ -1,0 +1,57 @@
+//css file 
+
+body, button, input, select, textarea, pre { margin: 0; }
+
+h1, h2, h3, h4, h5, h6, p, dl, ol, ul { margin-top: 0; margin-bottom: 1rem; }
+
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary { display: block; }
+
+body { font-family: Open Sans;
+margin-right: 15%;
+margin-left: 15%;
+width: 70%;
+background-image: ; }
+
+.container {
+	margin-top:25px;
+}
+.container h1 {
+	font-family: Open Sans;
+	font-size: 35px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+	float: left;
+	opacity: 0.6;
+}
+.container h3 {
+	font-family: Open Sans;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+nav{
+	text-align:right;
+}
+nav li{
+	float: left;
+	list-style: none;
+	margin: 10px;
+	text-align:right;
+	margin-top: 7px;
+	font-size: 23px;
+	opacity: 0.5;
+}
+nav ul{
+	float: left;
+	text-align:right;
+	padding-left: 21.7%;
+}
+
+
+
+
